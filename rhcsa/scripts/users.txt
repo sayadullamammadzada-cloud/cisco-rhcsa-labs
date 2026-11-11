@@ -1,0 +1,4 @@
+# istifadeci:qruplar:shell
+natasha:sysadmins:
+harry:sysadmins:
+sarah::/sbin/nologin
